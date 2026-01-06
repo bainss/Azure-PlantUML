@@ -1,10 +1,17 @@
-sprite $AzureArc [70x70/16z] {
-xTK7aYCX341HWIAqxt_UfKp9RTB0R4x_0A-a3W2_jl_z3oCS5Y8iYgBAXqOfm2pMPmJROcqo3gadk3UySPax2Pjbl6Qj8Dh5kq56XtLCyCpmjL1qciHncLKW
-kepsWtZPLauoQ4B4EO58EUUvaVEW4EBKeABC7BkkcLB27Y5o9ITfa7mj57UQGLmfMMki5MPiZQfujx5HHD2N6PMSf1eRHKk2rMWKpvnOAwBFX9foqquHjOe8
-7oYvD2WiPewSACwytWSIgzKgSZQBbpnx8S9yEijQOVvcHPdE56zK2b7QArUZM4GMVSOK0oBTYfuhqFIxAlhRAABVGL5TADw18lhj2clj_0yO5LRxzFcI8hmL
-2_7fywLcgbGIAS9FFb_iScUbgEp_07iyV9wfebo_NTMFbLAgJX7qNV4bc4NtIYczlfSG8pvlvkPMsogrAss-ketYvJHLH0yLBwLUyK6E5EyIQ2BLfGAyK391
-5wsK2031Peh099uf2BMOUiK2J0ioAE5js4R92CkmLI8qoKkv63wCRWMXBrfL5BP9LN2wDYLxf0W7HIbAM0vBS1WYV6t_-zyN
+' Azure PlantUML Sprite: Azure Arc
+' Category: Management
+' Description: Azure Azure Arc
+' Source: Official Azure Icon
+' Generated: 2026-01-06
+' Icon: 00756-icon-service-Azure-Arc.svg
+
+sprite $AzureArc [64x64/16z] {
+xTJfheD028RXf08wU1Bk_sxF5ss9LCPEz_Nz_-ZiDlVhLozY3UrsEykIgGQDQXgrS9JgkGQDki1ZDHqBEaOD70KTg-fOuB46ZKgVww9BttMvxaYrz9dMw57A
+IL6HsA2wzcYjuQU6XUvLSq_KHUr-COc-QDKZvuHc7xwWesvv5lQVHuy6AUEuwLaGkOuUZTjU-buGqIMUeS_nfPWtJ7ZstERBlc7km9dRlNFa_0eFI1TxOKBj
+Fdw0EdJmVC7-lOwNwxmyrGkwtFFbzmz1N-o9nU_VvVS7oGtk7r_e1V1oBtJU_WSlT7Y_Jth_WfdEdlpyY3HubEu_iRHvb7ZePe-EF8aqUc_fHMhUIkxjg8et
+LDRUaX9l-uxydwMvT-sLfRTglFGMSc-RkRTLixSJqUGjJOEknMmVqwz_
 }
+
 
 AzureEntityColoring(AzureArc)
 !define AzureArc(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureArc, AzureArc)

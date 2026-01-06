@@ -1,12 +1,19 @@
-sprite $AzureSql [70x70/16z] {
-xTFPmgCm28RX3q82UFyNF6gmLdyPq-LabkUaQzw6QF55__r7n0l2-rZghj1dYHRgonsIG-2zJja2Punnqb85esfBgSfd4GtblN7qX76Fyi06z_P0Id2dxEjp
-X1jD1zIxhUYGcx-E3Z2pWWJ9I41jbOrKnvO7nPKo70ZZ4LDBqLZ4Vg_SH6nGEuOe6U6UO1VBty88OaTQ202LU2LCnA8n1O1cJrpGwMbSGdVSivmgRjx9rLPq
-YJ0JyBWIj7RBenA1JRdOofAkwrpnWZN6ht7BgfyGG1VtWMtm-7pzfljbHRU1pdlfwlhS5-lJfE8SAtQjtuQFoxZ_7ZYhADhrhItMpuqyO9PLdDLEN0WpDdS6
--BcYMKKEWSugzVsNuqJvNff6u60TgxhiQnhoSvbScryn0kgwfiJaLzTeygdpwaUrPvTANolRRKuUbIsmytAkWAMrFf4RPYo5C6jHuRAmvuhHZqhWcAphaKcn
-qUUAdW-hnRfYlfB-Mlfl9nM1-4chC_FDrF_8SG0Qx70k19XVsmzmoSYKSm0b3spgal6q8fZfONdwFSuoZWLjYPpRBFj2sIxgz055a0yY1doUSOHFXZ8SrNSY
-5J-qLnlAk5AQZyyYX1pn2C9VuR__VW4
+' Azure PlantUML Sprite: Azure SQL
+' Category: Databases
+' Description: Azure Azure SQL
+' Source: Official Azure Icon
+' Generated: 2026-01-06
+' Icon: 02390-icon-service-Azure-SQL.svg
+
+sprite $AzureSQL [64x64/16z] {
+xT5LWXin44NH4XKueFtlDjPh6ThL92K_IUOC6A-m_hk-v09vfgKUTrCpT-EhA9lcQs2UphdBupclZEIyvLBF1qvoXka1Cf-HwUbbmHEzl1jgnRjOonuzhUMO
+prqvrhjoh9TH-flvdKpb-cQdvnHZoYp0-OwNj3tNTtahJmGHTIH8cBSG1LqntsSY2Y6Wvz1Uu9-u7lpqWIXXtQhjUMHLRe--1zSJKT55xlCguqtNmwfNrJON
+8ZpD2f4edlJQOVzOGLiAlzuKPT-RwGU9H7tRYA1Wg7LldNugE73Uxsr5lHo8mlRwpL4FDoSQYP92G7cfP-q1zrMhOVfoiO-nY62zk3PAfRI7g4jV6ZdgQH7D
+32yWgA5Vb8C-4IJ5PoMWpcgxVVsuKU6ItrQe72Z8Ught_5RR-xOFssRpRl2pLZkHsxcvjAkrgft8CKPs9LYzimjGUXLcIgZTHDeFhnieNGvZ9TGrfDTPTIRg
+cK7g7_Fbooy
 }
 
-AzureEntityColoring(AzureSql)
-!define AzureSql(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSql, AzureSql)
-!define AzureSql(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSql, AzureSql)
+
+AzureEntityColoring(AzureSQL)
+!define AzureSQL(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSQL, AzureSQL)
+!define AzureSQL(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSQL, AzureSQL)

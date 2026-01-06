@@ -1,9 +1,16 @@
-sprite $AzureFirewallManager [70x70/16z] {
-xTQ5UiCm34LXsTQzuVT_tJdAI2Mx6iC_B9rFKL6-lN-wR27hAA_CMrIM5riOVMMPlNMR1s_PrjbREYeJlQ-k_5UsrRCp6cTj9vMeqygwx6f-dhprqb2JkRQN
-Ulv8hrPchrR6WUGmHYi6yWI8LaPnOXMLNQhY5KgLGOCIgKomCK32a2o-iXuivzWzFG0gXq92Iods0oAzL1giO3AiOPMTaYLrFWEEVPO2MyP1Yr7OR3cbvhEn
-DhZ3FeUhM0VSeQS2BOwU87igMcvNy4ih9zoxMcUbeQyolqj5b_UeICFFgFnNeBS1qaQSqE9HfGsDYh98cx9LITAM6XL0Ue1mjFE0l7ohOgD4Xj76A7sRqSWe
-LU6r2fYa6-WgWUDn6LzHgjmZWQvYb93xPD9LN2IIqMZ4CY2C1YD-D-eM6ynO1HO9KdAlA9abpfRZFb_697MVTSEoTWxoxm4
+' Azure PlantUML Sprite: Azure Firewall Manager
+' Category: Networking
+' Description: Azure Azure Firewall Manager
+' Source: Official Azure Icon
+' Generated: 2026-01-06
+' Icon: 00271-icon-service-Azure-Firewall-Manager.svg
+
+sprite $AzureFirewallManager [64x64/16z] {
+xTFPRiGW38LXHR6psPBV_srRA6UaCmkAwTxEV_y1jf9uLyzyf66FFjGRvxPHxiPT-uCoFnRAt0wgwv_-Tl_iZNs-SM-b6u-fLXfxkpFOigxhiexwvaOz4Cfv
+YzUqDk3DAaOvRqLNBYK-mT6zpyJDp2EWvrOvOeBl5hM5T4bBK_D6kTkEZafhCoVQwlu_MxIXcw94v8oVUycVz2lQJ_Xkjrwex_VHxQTx_VbUUkNzJ8b6yW3s
+-hrUL29vGEVwj9SpVk834jUtb0uWBf4-8FTwJ719CXmjv1CSiGTFnBxo9JAHBtoANF2DHpgvU0LFzkO5F9-sOZZeuS3_J2y
 }
+
 
 AzureEntityColoring(AzureFirewallManager)
 !define AzureFirewallManager(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureFirewallManager, AzureFirewallManager)
